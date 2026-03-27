@@ -1,5 +1,5 @@
 /*
-Code for the 2023 Purdue Chem-E-Car powered by an alkaline battery for the regional competition.
+Code for the 2026 Purdue (battery) Chem-E-Car powered by an alkaline battery for the regional competition.
 Created by Kenneth Meng, Madhav Valiyaparambil, Alice Hai Last updated March 1, 2024
 */
 
